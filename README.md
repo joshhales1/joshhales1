@@ -1,4 +1,4 @@
-Hi, I’m @JayHales
+Hi, I’m @JayHales.
 
 I've been building websites for many years with experience in social media, e-commerce and functional web apps. I also enjoy game development but enjoy game engines more.
 

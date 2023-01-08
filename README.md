@@ -7,3 +7,5 @@ I’m currently doing a lot of JavaScript and TypeScript building cool SPAs. I'm
 I have experience in C#, JavaScript, Python, TypeScript, PHP, HTML, CSS and a variety of operating systems.
 
 Check out my website at [jayhal.es](https://jayhal.es/) or email me at <a href="mailto:me@jayhal.es" target="_blank">me@jayhal.es</a>.
+
+That weird PFP is some AI generated thing, I think it looks cool...

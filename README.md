@@ -1,7 +1,13 @@
-Hi, I’m Josh Hales.
+I study at **Durham Univeristy**, have interned at **HW Development** and lead the development at **Origo Fundraising**.
 
-I've been building websites for many years with experience in social media, e-commerce and functional web apps. I also enjoy game development but enjoy game engines more.
+I really like
+ - Swift
+ - C#
+ - Docker
 
-I’m currently doing a lot of JavaScript and TypeScript building cool SPAs. I'm also delving into circuitry for an even lower level understanding.
+I really don't like
+ - WordPress
+ - Hardware
+ - UI/UX
 
-I have experience in C#, JavaScript, Python, TypeScript, PHP, HTML, CSS and a variety of operating systems.
+

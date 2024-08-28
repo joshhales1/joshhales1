@@ -1,4 +1,4 @@
-I study at **Durham Univeristy**, have interned at **HW Development** and lead the development at **Origo Fundraising**.
+I study at **Durham Univeristy**, have interned at **HW Development** and lead development at **Origo Fundraising**.
 
 I really like
  - Swift

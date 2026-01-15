@@ -1,6 +1,1 @@
-I study at **Durham Univeristy**, have interned at **BAE Systems**, **HW Development** and lead development at **Origo Fundraising**.
-
-I really like
- - Java
- - .NET
- - TypeScript
+Finalist at **Durham Univeristy**, passionate about data science and good engineering. 
